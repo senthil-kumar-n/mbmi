@@ -1,0 +1,22 @@
+h1{
+    color:lightseagreen; 
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tt{
+    text-align: center;
+    color:darkblue;
+}
+.frm{
+    height: 300px;
+    padding: 10px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    top: 20%;
+    left: 30%;
+    position: fixed;
+    border-style: solid;
+    border-radius: 25px;
+    text-align: center;
+    
+}
